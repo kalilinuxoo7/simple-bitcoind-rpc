@@ -1,6 +1,6 @@
 {
-  "name": "amigo-bitcoind-rpc",
-  "description": "Amigo Client Library to connect to Amigo Core via RPC",
+  "name": "simple-bitcoind-rpc",
+  "description": "Simple Client Library to connect to Simple Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
@@ -25,12 +25,12 @@
     }
   ],
   "keywords": [
-    "amigo",
+    "simple",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amigochain/amigo-bitcoind-rpc"
+    "url": "https://github.com/kalilinuxoo7/simple-bitcoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +47,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/amigochain/amigo-bitcoind-rpc/issues"
+    "url": "https://github.com/kalilinuxoo7/simple-bitcoind-rpc/issues"
   },
-  "homepage": "https://github.com/amigochain/amigo-bitcoind-rpc"
+  "homepage": "https://github.com/kalilinuxoo7/simple-bitcoind-rpc"
 }
